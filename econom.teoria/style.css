@@ -1,0 +1,14 @@
+#wrapeer {width:800px;}
+
+h2 {color:black;
+padding:0px 300px;}
+
+h4 {padding:5px 5px;}
+
+a.addon {color:blue;}
+
+a.addon a:visited a:link {color:blue;
+text-decoration:underline;}
+
+a.addon a:hover {color:red;
+text-decoration:none;}
